@@ -1,0 +1,15 @@
+ota-id=OnePlus7Oxygen_14.O.12_GLO_012_1906211401
+ota-property-files=payload_metadata.bin:10210:141801,payload.bin:10210:2126247943,payload_properties.txt:2126258211:156,care_map.txt:915:215,compatibility.zip:1183:8980,metadata:69:798                
+ota-required-cache=0
+ota-streaming-property-files=payload.bin:10210:2126247943,payload_properties.txt:2126258211:156,care_map.txt:915:215,compatibility.zip:1183:8980,metadata:69:798                   
+ota-type=AB
+ota_version=OnePlus7Oxygen_14.O.12_GLO_012_1906211401
+patch_type=1
+post-build=OnePlus/OnePlus7/OnePlus7:9/PKQ1.190110.001/1906211340:user/release-keys
+post-build-incremental=1906211340
+post-sdk-level=28
+post-security-patch-level=2019-06-01
+post-timestamp=1561096752
+pre-device=OnePlus7
+version_name=OnePlus7Oxygen_14_1906211401
+wipe=0
