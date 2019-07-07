@@ -1,0 +1,17 @@
+ota-downgrade=yes
+ota-id=OnePlus7Oxygen_13.W.02_GLO_002_1905311416
+ota-property-files=payload_metadata.bin:9687:140916,payload.bin:9687:1794441630,payload_properties.txt:1794451375:168,care_map.pb:944:964,compatibility.zip:1961:7679,metadata:69:828                  
+ota-required-cache=0
+ota-streaming-property-files=payload.bin:9687:1794441630,payload_properties.txt:1794451375:168,care_map.pb:944:964,compatibility.zip:1961:7679,metadata:69:828                    
+ota-type=AB
+ota-wipe=yes
+ota_version=OnePlus7Oxygen_13.W.02_GLO_002_1905311416
+patch_type=1
+post-build=OnePlus/OnePlus7/OnePlus7:10/QKQ1.190406.002/1905311350:user/release-keys
+post-build-incremental=1905311350
+post-sdk-level=28
+post-security-patch-level=2019-05-05
+post-timestamp=8888888888
+pre-device=OnePlus7
+version_name=OnePlus7Oxygen_13_1905311416
+wipe=1
