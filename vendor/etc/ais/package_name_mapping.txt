@@ -1,0 +1,5 @@
+packagename,mapping_file
+com.tencent.tmgp.sgame,1
+com.netease.ko,2
+com.nianticlabs.pokemongo,3
+com.nosource,4
