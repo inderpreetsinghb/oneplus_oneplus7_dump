@@ -51,6 +51,7 @@ dtbo/37_dtbdump_SDX55M_MTP_19861_53_54.dtb
 dtbo/38_dtbdump_SDX50M_MTP_18827_14.dtb
 dtbo/39_dtbdump_SDX50M_MTP_18825_15.dtb
 dtbo.img
+.gitignore
 modem/image/4bdwlan0.b0a
 modem/image/4bdwlan0.b0c
 modem/image/4bdwlan1.b0a
